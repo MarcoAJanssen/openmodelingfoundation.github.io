@@ -6,4 +6,4 @@ menu:
     weight: 20
 ---
 
-Standards about documentation, integration
+This page provide a list of discussion on various OMF standards, varying from documentation to interoperability.
